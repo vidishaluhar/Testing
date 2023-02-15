@@ -1,0 +1,30 @@
+From f654ec0ad41ada7a58d6c0ec1eb0694c3fa3f2bb Mon Sep 17 00:00:00 2001
+From: VidishaLuhar <vidisha.l@simformsolutions.com>
+Date: Tue, 21 Feb 2023 09:33:22 +0530
+Subject: [PATCH 2/2] 11
+
+---
+ example.html | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+ create mode 100644 example.html
+
+diff --git a/example.html b/example.html
+new file mode 100644
+index 0000000..4375fbf
+--- /dev/null
++++ b/example.html
+@@ -0,0 +1,10 @@
++<html>
++    <body>
++        <h1>
++            Hello World
++        </h1>
++        <h2>
++            This is vidisha 11
++        </h2>
++    </body>
++</html>
+\ No newline at end of file
+-- 
+2.39.1
+

@@ -1,0 +1,24 @@
+From ef43e8017ba7fe2ad2da045c639ac4450ce7b64d Mon Sep 17 00:00:00 2001
+From: VidishaLuhar <vidisha.l@simformsolutions.com>
+Date: Tue, 21 Feb 2023 09:26:27 +0530
+Subject: [PATCH 1/2] 11
+
+---
+ index.html | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+diff --git a/index.html b/index.html
+index e69de29..98a349c 100644
+--- a/index.html
++++ b/index.html
+@@ -0,0 +1,6 @@
++<html>
++    <body>
++        <h1> Hello World</h1>
++        <h2> This is Vidisha 11</h2>
++    </body>
++</hrml>
+\ No newline at end of file
+-- 
+2.39.1
+
