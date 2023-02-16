@@ -1,3 +1,5 @@
 This is demo of your practical.
 
 // this is example of pull and merge command
+
+// made some changes
